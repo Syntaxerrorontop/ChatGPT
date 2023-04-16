@@ -3,7 +3,6 @@ This code generate Random Keys!
 Source code not included!
 
 The options for the Programm are:
-<<<<<<< HEAD
 
 How many Threads should Generate and check keys. you can set this as mutch as you want but it need much cpu
 
@@ -15,7 +14,6 @@ I added this becouse as i Generated Valid Keys i saw they are not always same lo
 
 
 If The code is Slow use not that much Threads or Restart your pc!
-=======
   
   How many Threads should Generate and check keys.
   you can set this as mutch as you want but it need much cpu
