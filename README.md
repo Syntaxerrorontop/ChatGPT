@@ -16,6 +16,3 @@ The Last think is you can say how long the key should be First type the lowest n
 
 
 If The code is Slow use not that much Threads or Restart your pc!
-  
-  
-> by SyntaxError
